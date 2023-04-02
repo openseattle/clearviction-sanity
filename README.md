@@ -1,12 +1,30 @@
 # Clearviction + Sanity Clean Content Studio
 
-## What it does
+This repository holds code for the Sanity CMS that powers the Clearviction website. Working in this repository will allow you to create and edit schemas, that serve as configurations for the content types that are available in the CMS.
 
-## How to get it on your machine
+## Development Setup
 
-## How to run it
+To get this repository on your machine, you can follow the commands below:
 
-## See our [wiki page](https://github.com/openseattle/clearviction-sanity/wiki) for more info!
+```bash
+git clone https://github.com/openseattle/clearviction-sanity.git
+```
+
+### Installation
+
+1. Move into the project directory
+
+   ```bash
+   cd clearviction-sanity
+   ```
+
+2. Install project dependecies
+
+   ```bash
+   npm install
+   ```
+
+## Head over to our [wiki page](https://github.com/openseattle/clearviction-sanity/wiki) to keep learning 🚀
 
 ## Sanity docs and links
 
