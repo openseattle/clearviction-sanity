@@ -1,8 +1,12 @@
 # Clearviction + Sanity Clean Content Studio
 
-## How to use it
+## What it does
 
-See our wiki page for more info!
+## How to get it on your machine
+
+## How to run it
+
+## See our [wiki page](https://github.com/openseattle/clearviction-sanity/wiki) for more info!
 
 ## Sanity docs and links
 
